@@ -39,7 +39,7 @@ public class ApiDemos extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("", "");
+        Log.d("", "asdf");
         Intent intent = getIntent();
         String path = intent.getStringExtra("com.example.android.apis.Path");
         
